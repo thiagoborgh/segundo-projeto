@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Estonia Regular';
+    src: url('/assets/Fonts/Estonia-Regular.ttf');
+}
+
+body{ 
+    background-image: url();
+    background-size: cover;
+    background-position: right;
+
+
+
+    font-family: 'Estonia-Regular', cursive;
+}
